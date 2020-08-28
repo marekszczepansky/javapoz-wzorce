@@ -19,3 +19,6 @@ Szkolenie wzorce projektowe
 # Zadania
 * https://github.com/smijran/sda/tree/javapoz20-design-patterns
 * https://gitlab.com/wiesiu/gda32
+
+# Poprzednie zajęcia
+* https://github.com/przemekc/java-sda
