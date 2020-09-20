@@ -6,6 +6,8 @@ Szkolenie wzorce projektowe
 * https://javadeveloper.pl/solid/
 * https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/
 * https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
+* https://refactoring.guru/pl/design-patterns
+* https://www.journaldev.com/16813/dao-design-pattern
 
 # Książki
 * Czysty kod - https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm
