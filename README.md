@@ -8,7 +8,7 @@ Szkolenie wzorce projektowe
 * https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
 * https://refactoring.guru/pl/design-patterns
 * https://www.journaldev.com/java/design-patterns
-https://bulldogjob.pl/articles/1161-programowanie-solid-w-praktyce
+* https://bulldogjob.pl/articles/1161-programowanie-solid-w-praktyce
 
 # Książki
 * Czysty kod - https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm
